@@ -1,0 +1,10 @@
+marketplace/
+├── index.html
+├── styles.css
+├── script.js
+├── dashboard.html
+├── login.html
+├── register.html
+├── add-product.html
+└── products/
+    └── (здесь будут страницы товаров)
